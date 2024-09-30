@@ -27,7 +27,7 @@ I am a PhD student at <a href='https://aiisc.ai/index.html'>AI Institute, Univer
 
 <a href='https://amit.aiisc.ai/'>Dr. Amit Sheth</a> is my advisor and I have closely worked with <a href='https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en'>Dr. Amitava Das</a>, <a href='https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate'>Dr. Valerie Shalin</a> and <a href='https://scholar.google.com/citations?hl=en&user=Txz94twAAAAJ&view_op=list_works&sortby=pubdate'>Dr. T. K. Prasad</a>.
 
-Previously, I interned at <a href='https://www.nlm.nih.gov/'>NLM</a> under the supervision of <a href='https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en'>Dr. Olivier Bodenreider</a>.
+Previously, I interned at <a href='https://www.nlm.nih.gov/'>NLM</a> under the supervision of <a href='https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en'>Dr. Olivier Bodenreider</a> and <a href='https://scholar.google.com/citations?user=GU60-gYAAAAJ&hl=en'>Dr. Vinh Nguyen</a>.
 
 I am interested in language modeling, specifically in:
 <ul>
