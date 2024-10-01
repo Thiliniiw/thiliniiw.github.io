@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student @<a href='https://aiisc.ai/index.html'>AIISC</a> • <a href="https://sc.edu/">UofSC</a> • Analogy & Abstraction • <bf> Motto </bf>
 
 profile:
   align: right
