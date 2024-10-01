@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @<a href='https://aiisc.ai/index.html'>AIISC</a> • <a href="https://sc.edu/">UofSC</a> • <b>Analogy & Abstraction </b>•
+subtitle: PhD student @<a href='https://aiisc.ai/index.html'>AIISC</a> • <a href="https://sc.edu/">UofSC</a> • <b>Analogy & Abstraction </b> • 👩‍💻
 
 profile:
   align: right
