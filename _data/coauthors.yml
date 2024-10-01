@@ -2,16 +2,16 @@
   - firstname: ["Amit Sheth", "Amit", "Amit P. Sheth", "Amit Pravin Sheth", "A. Sheth"]
     url: https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en
     
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"shalin":
+  - firstname: ["Valerie", "V.", "", "Valerie Shalin"]
+    url: https://scholar.google.fr/citations?user=trFx5GIAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"prasad":
+  - firstname: ["Krishnaprasad", "K.", "K. P.", "Krishnaprasad Thirunarayan"]
+    url: https://scholar.google.fr/citations?user=Txz94twAAAAJ&hl=en
 
-"rosen":
-  - firstname: ["Nathan", "N."]
+"amitava":
+  - firstname: ["Amitava", "A.", "Amitava Das"]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "bach":
