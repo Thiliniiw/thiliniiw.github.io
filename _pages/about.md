@@ -34,7 +34,7 @@ My research interests lie in language modeling, with a focus on the following ar
   <li>How language models identify and generate analogies and abstractions</li>
   <li>Leveraging structured knowledge sources to build language models</li>
   <li>Augmenting the analogical reasoning capabilities of models through structured knowledge</li>
-  <li>- The significance of context in language modeling</li>
+  <li>The significance of context in language modeling</li>
 </ul>
 
 
