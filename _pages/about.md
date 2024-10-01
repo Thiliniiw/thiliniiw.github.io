@@ -29,12 +29,12 @@ I am a PhD student at <a href='https://aiisc.ai/index.html'>AI Institute, Univer
 
 Previously, I interned at <a href='https://www.nlm.nih.gov/'>NLM</a> under the supervision of <a href='https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en'>Dr. Olivier Bodenreider</a> and <a href='https://scholar.google.com/citations?user=GU60-gYAAAAJ&hl=en'>Dr. Vinh Nguyen</a>.
 
-I am interested in language modeling, specifically in:
+My research interests lie in language modeling, with a focus on the following areas:
 <ul>
-  <li>How language models identify and generate analogies</li>
-  <li>Building language models using structured knowledge sources</li>
-  <li>Enhancing analogical reasoning in models with structured knowledge</li>
-  <li>The role of context in language modeling</li>
+  <li>How language models identify and generate analogies and abstractions</li>
+  <li>Leveraging structured knowledge sources to build language models</li>
+  <li>Augmenting the analogical reasoning capabilities of models through structured knowledge</li>
+  <li>- The significance of context in language modeling</li>
 </ul>
 
 
