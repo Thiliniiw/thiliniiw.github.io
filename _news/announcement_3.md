@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Conducted a sucessful session at <a href="https://aiisc.ai/safari/index.html">AIISC AI Summer Camp</a>! ✨ 😄
+Conducted a sucessful session on "AI, Analogy & Education" at <a href="https://aiisc.ai/safari/index.html">AIISC AI Summer Camp</a>! ✨ 😄
