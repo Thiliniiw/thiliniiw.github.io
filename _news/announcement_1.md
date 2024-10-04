@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper “On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models” has been accepted at EACL 2024 🥳.
+Our paper <a href="https://aclanthology.org/2024.findings-eacl.31.pdf">“On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models”</a> has been accepted at <a href="https://2024.eacl.org/">EACL2024</a> 🥳.
