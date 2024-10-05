@@ -1,7 +1,16 @@
----
----
-
-@string{aps = {American Physical Society,}}
+@inproceedings{wijesiriwardene2013optimization,
+  abbr={IBIMA2013},
+  bibtex_show={true},
+  title={Optimization of partial palmprint identification process using palmprint segmentation},
+  author={Wijesiriwardene, Thilini I and Karunawallabha, Janitha R and Wanniarachchi, Vajisha U and Dharmaratne, Anuja T and Sandaruwan, Damitha},
+  abstract={Partial-to-full palmprint matching has attracted the experts in print identification area and researchers in palmprint matching. An efficient partial palmprint identification approach can increase the efficiency of the criminal investigation process in Sri Lanka as well as in other countries. This research investigates the existing researches done so far in order to achieve the challenges and limitations in palmprint matching. In this paper, the design of a segment based partial-to-full palmprint identification approach is presented which consists of three main modules: segment identification, hand type identification and minutiae matching.},
+  booktitle={International Business Information Management 2013},
+  pages={641--648},
+  year={2013},
+  organization={IBIMA Publishing},
+  tldr={Introduces a design of a segment based partial-to-full palmprint identification approach consisting of three main modules: segment identification, hand type identification and minutiae matching.},
+  url={https://ibima.org/accepted-paper/a-novel-approach-to-optimize-crime-investigation-process-using-palmprint-recognition/}
+}
 
 @inproceedings{wijesiriwardene2020alone,
   abbr={SocInfo2020},
@@ -15,22 +24,86 @@
   organization={Springer},
   pdf={https://arxiv.org/pdf/2008.06465},
   award={Please contact thilini[at]sc.edu to request the dataset},
-  award_name={Data Available},
+  award_name={Data},
+  tldr={Individual tweets do not provide sufficient evidence for toxic behavior, and meaningful use of context in interactions can enable highlighting or exonerating tweets with purported toxicity. A dataset is introcuded which consists of individual tweets along with their context.},
   preview={socinfo2020.png}
 }
 
-@inproceedings{wijesiriwardene2023analogical,
-  abbr={ACL2023},
+@inproceedings{nguyen2022context,
+  abbr={Web2022},
   bibtex_show={true},
-  title={ANALOGICAL-A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models},
-  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Gajera, Bimal and Gowaikar, Shreeyash and Gupta, Chandan and Chadha, Aman and Reganti, Aishwarya Naresh and Sheth, Amit and Das, Amitava},
-  abstract={Over the past decade, analogies, in the form of word-level analogies, have played a significant role as an intrinsic measure of evaluating the quality of word embedding methods such as word2vec. Modern large language models (LLMs), however, are primarily evaluated on extrinsic measures based on benchmarks such as GLUE and SuperGLUE, and there are only a few investigations on whether LLMs can draw analogies between long texts. In this paper, we present ANALOGICAL, a new benchmark to intrinsically evaluate LLMs across a taxonomy of analogies of long text with six levels of complexity – (i) word, (ii) word vs. sentence, (iii) syntactic, (iv) negation, (v) entailment, and (vi) metaphor. Using thirteen datasets and three different distance measures, we evaluate the abilities of eight LLMs in identifying analogical pairs in the semantic vector space. Our evaluation finds that it is increasingly challenging for LLMs to identify analogies when going up the analogy taxonomy.},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
-  pages={3534--3549},
-  year={2023},
-  pdf={https://aclanthology.org/2023.findings-acl.218/},
-  preview={acl2023.png}
-  
+  preview={web2022.png},
+  title={Context-enriched learning models for aligning biomedical vocabularies at scale in the UMLS Metathesaurus},
+  author={Nguyen, Vinh and Yip, Hong Yung and Bajaj, Goonmeet and Wijesiriwardene, Thilini and Javangula, Vishesh and Parthasarathy, Srinivasan and Sheth, Amit and Bodenreider, Olivier},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1037--1046},
+  year={2022},
+  pdf={https://dl.acm.org/doi/pdf/10.1145/3485447.3511946},
+  abstract={The Unified Medical Language System (UMLS) Metathesaurus construction process mainly relies on lexical algorithms and manual expert curation for integrating over 200 biomedical vocabularies. A lexical-based learning model (LexLM) was developed to predict synonymy among Metathesaurus terms and largely outperforms a rule-based approach (RBA) that approximates the current construction process. However, the LexLM has the potential for being improved further because it only uses lexical information from the source vocabularies, while the RBA also takes advantage of contextual information. We investigate the role of multiple types of contextual information available to the UMLS editors, namely source synonymy (SS), source semantic group (SG), and source hierarchical relations (HR), for the UMLS vocabulary alignment (UVA) problem. In this paper, we develop multiple variants of context-enriched learning models (ConLMs) by adding to the LexLM the types of contextual information listed above. We represent these context types in context-enriched knowledge graphs (ConKGs) with four variants ConSS, ConSG, ConHR, and ConAll. We train these ConKG embeddings using seven KG embedding techniques. We create the ConLMs by concatenating the ConKG embedding vectors with the word embedding vectors from the LexLM. We evaluate the performance of the ConLMs using the UVA generalization test datasets with hundreds of millions of pairs. Our extensive experiments show a significant performance improvement from the ConLMs over the LexLM, namely +5.0% in precision (93.75%), +0.69% in recall (93.23%), +2.88% in F1 (93.49%) for the best ConLM. Our experiments also show that the ConAll variant including the three context types takes more time, but does not always perform better than other variants with a single context type. Finally, our experiments show that the pairs of terms with high lexical similarity benefit most from adding contextual information, namely +6.56% in precision (94.97%), +2.13% in recall (93.23%), +4.35% in F1 (94.09%) for the best ConLM. The pairs with lower degrees of lexical similarity also show performance improvement with +0.85% in F1 (96%) for low similarity and +1.31% in F1 (96.34%) for no similarity. These results demonstrate the importance of using contextual information in the UVA problem.},
+}
+
+@article{wijesiriwardene2022ubert,
+  abbr={arXiv},
+  bibtex_show={true},
+  title={Ubert: A novel language model for synonymy prediction at scale in the umls metathesaurus},
+  author={Wijesiriwardene, Thilini and Nguyen, Vinh and Bajaj, Goonmeet and Yip, Hong Yung and Javangula, Vishesh and Mao, Yuqing and Fung, Kin Wah and Parthasarathy, Srinivasan and Sheth, Amit P and Bodenreider, Olivier},
+  journal={arXiv preprint arXiv:2204.12716},
+  year={2022},
+  pdf={https://arxiv.org/pdf/2204.12716},
+  abstract={The UMLS Metathesaurus integrates more than 200 biomedical source vocabularies. During the Metathesaurus construction process, synonymous terms are clustered into concepts by human editors, assisted by lexical similarity algorithms. This process is error-prone and time-consuming. Recently, a deep learning model (LexLM) has been developed for the UMLS Vocabulary Alignment (UVA) task. This work introduces UBERT, a BERT-based language model, pretrained on UMLS terms via a supervised Synonymy Prediction (SP) task replacing the original Next Sentence Prediction (NSP) task. The effectiveness of UBERT for UMLS Metathesaurus construction process is evaluated using the UMLS Vocabulary Alignment (UVA) task. We show that UBERT outperforms the LexLM, as well as biomedical BERT-based models. Key to the performance of UBERT are the synonymy prediction task specifically developed for UBERT, the tight alignment of training data to the UVA task, and the similarity of the models used for pretrained UBERT.},
+  preview={ubert2022.png}
+}
+
+@inproceedings{bajaj-etal-2022-evaluating,
+    abbr={Workshop2022},
+    bibtex_show={true},
+    preview={workshop2022.png},
+    title = "Evaluating Biomedical Word Embeddings for Vocabulary Alignment at Scale in the {UMLS} {M}etathesaurus Using {S}iamese Networks",
+    author = "Bajaj, Goonmeet  and
+      Nguyen, Vinh  and
+      Wijesiriwardene, Thilini  and
+      Yip, Hong Yung  and
+      Javangula, Vishesh  and
+      Sheth, Amit  and
+      Parthasarathy, Srinivasan  and
+      Bodenreider, Olivier",
+    editor = "Tafreshi, Shabnam  and
+      Sedoc, Jo{\~a}o  and
+      Rogers, Anna  and
+      Drozd, Aleksandr  and
+      Rumshisky, Anna  and
+      Akula, Arjun",
+    booktitle = "Proceedings of the Third Workshop on Insights from Negative Results in NLP",
+    month = "may",
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.insights-1.11",
+    doi = "10.18653/v1/2022.insights-1.11",
+    pages = "82--87",
+    abstract = "Recent work uses a Siamese Network, initialized with BioWordVec embeddings (distributed word embeddings), for predicting synonymy among biomedical terms to automate a part of the UMLS (Unified Medical Language System) Metathesaurus construction process. We evaluate the use of contextualized word embeddings extracted from nine different biomedical BERT-based models for synonym prediction in the UMLS by replacing BioWordVec embeddings with embeddings extracted from each biomedical BERT model using different feature extraction methods. Finally, we conduct a thorough grid search, which prior work lacks, to find the best set of hyperparameters. Surprisingly, we find that Siamese Networks initialized with BioWordVec embeddings still out perform the Siamese Networks initialized with embedding extracted from biomedical BERT model.",
+}
+
+@inproceedings{karunawallabha2013novel,
+  abbr={ICTER2013},
+  bibtex_show={true},
+  abstract={A crime investigation is generally carried out to aid the crime solving process by identifying criminals and in some cases victims. Print evidence plays a crucial part in identifying criminals or suspects. According to Sri Lankan Criminal Records, 30%-35% of the print evidences are in the form of partial palmprints. Partial-to-full palmprint matching has attracted the experts in print identification area and researchers in palmprint matching. An efficient partial palmprint identification approach can increase the efficiency of the criminal investigation process in Sri Lanka as well as in other countries.},
+  title={A Novel Approach to Optimize Crime Investigation Process Using Palmprint Recognition},
+  author={Karunawallabha, Janitha R and Wijesiriwardene, Thilini I and Vajisha, U Wanniarachchi and Anuja, T. Dharmaratne and Damitha, Sandaruwan},
+  booktitle={2013 International Conference on Advances in ICT for Emerging Regions, IEEE},
+  year={2013}
+}
+
+@inproceedings{wijesiriwardene2022towards,
+  abbr={Analogies22@ICCBR},
+  bibtex_show={true},
+  preview={iccbr2022.png},
+  title={Towards efficient scoring of student-generated long-form analogies in STEM},
+  tldr={The work presents the Discriminative Analogy Features (DAF) pipeline to identify the discriminative features (semantic, syntactic, sentiment, and statistical) of strong and weak long-form text analogies. While a semantic feature is the most discriminative, out of the top 15 discriminative features, most are syntactic.},
+  abstract={Switching from an analogy pedagogy based on comprehension to analogy pedagogy based on production raises an impractical manual analogy scoring problem. Conventional symbol-matching approaches to computational analogy evaluation focus on positive cases, and challenge computational feasibility. This work presents the Discriminative Analogy Features (DAF) pipeline to identify the discriminative features of strong and weak long-form text analogies. We introduce four feature categories (semantic, syntactic, sentiment, and statistical) used with supervised vector-based learning methods to discriminate between strong and weak analogies. Using a modestly sized vector of engineered features with SVM attains a 0.67 macro F1 score. While a semantic feature is the most discriminative, out of the top 15 discriminative features, most are syntactic. Combining this engineered features with an ELMo-generated embedding still improves classification relative to an embedding alone. While an unsupervised K-Means clustering-based approach falls short, similar hints of improvement appear when inputs include the engineered features used in supervised learning.},
+  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Shalin, Valerie L and Sheth, Amit P},
+  booktitle={The International Conference on Case-Based Reasoning (ICCBR) Analogies’22: Workshop on Analogies: from Theory to Applications at ICCBR-2022, September, 2022, Nancy, France},
+  year={2022}
 }
 
 @inproceedings{tommasini2023correction,
@@ -44,109 +117,52 @@
   year={2023},
   organization={Springer},
   pdf={https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf},
-  preview={eswc2023.png},
+  selected={true},
+  preview={eswc2023.png}
+}
+
+@article{wijesiriwardene2023we,
+  abbr={IEEE-IC2023},
+  bibtex_show={true},
+  abstract={A hallmark of intelligence is the ability to use a familiar domain to make inferences about a less familiar domain, known as analogical reasoning. In this article, we delve into the performance of Large Language Models (LLMs) in dealing with progressively complex analogies expressed in unstructured text. We discuss analogies at four distinct levels of complexity: lexical analogies, syntactic analogies, semantic analogies, and pragmatic analogies. As the analogies become complex, they require increasingly extensive, diverse knowledge beyond the textual content, unlikely to be found in the lexical cooccurrence statistics that power LLMs. To address this, we discuss the necessity of employing neurosymbolic AI techniques that combine statistical and symbolic AI, informing the representation of unstructured text to highlight and augment relevant content, provide abstraction and guide the mapping process. Our knowledge-informed approach maintains the efficiency of LLMs while preserving the ability to explain analogies for pedagogical applications.},
+  title={Why do we need neurosymbolic ai to model pragmatic analogies?},
+  author={Wijesiriwardene, Thilini and Sheth, Amit and Shalin, Valerie L and Das, Amitava},
+  journal={IEEE Intelligent Systems},
+  volume={38},
+  number={5},
+  pages={12--16},
+  year={2023},
+  publisher={IEEE},
+  pdf={https://www.computer.org/csdl/magazine/ex/2023/05/10269780/1QWO61CnTS8},
+  award={Extended version: https://arxiv.org/pdf/2308.01936},
+  award_name={Extended Version},
+  preview={ieee2023.png}
+}
+
+@inproceedings{wijesiriwardene2024relationship,
+  abbr={EACL2024},
+  bibtex_show={true},
+  title={On the Relationship between Sentence Analogy Identification and Sentence Structure Encoding in Large Language Models},
+  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Reganti, Aishwarya Naresh and Jain, Vinija and Chadha, Aman and Sheth, Amit and Das, Amitava},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  pages={451--457},
+  year={2024},
+  abstract = "The ability of Large Language Models (LLMs) to encode syntactic and semantic structures of language is well examined in NLP. Additionally, analogy identification, in the form of word analogies are extensively studied in the last decade of language modeling literature. In this work we specifically look at how LLMs{'} abilities to capture sentence analogies (sentences that convey analogous meaning to each other) vary with LLMs{'} abilities to encode syntactic and semantic structures of sentences. Through our analysis, we find that LLMs{'} ability to identify sentence analogies is positively correlated with their ability to encode syntactic and semantic structures of sentences. Specifically, we find that the LLMs which capture syntactic structures better, also have higher abilities in identifying sentence analogies.",
+  preview={eacl2024.png},
   selected={true}
 }
 
-@book{einstein1956investigations,
+@inproceedings{wijesiriwardene2023analogical,
+  abbr={ACL2023},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+  title={ANALOGICAL-A Novel Benchmark for Long Text Analogy Evaluation in Large Language Models},
+  author={Wijesiriwardene, Thilini and Wickramarachchi, Ruwan and Gajera, Bimal and Gowaikar, Shreeyash and Gupta, Chandan and Chadha, Aman and Reganti, Aishwarya Naresh and Sheth, Amit and Das, Amitava},
+  abstract={Over the past decade, analogies, in the form of word-level analogies, have played a significant role as an intrinsic measure of evaluating the quality of word embedding methods such as word2vec. Modern large language models (LLMs), however, are primarily evaluated on extrinsic measures based on benchmarks such as GLUE and SuperGLUE, and there are only a few investigations on whether LLMs can draw analogies between long texts. In this paper, we present ANALOGICAL, a new benchmark to intrinsically evaluate LLMs across a taxonomy of analogies of long text with six levels of complexity – (i) word, (ii) word vs. sentence, (iii) syntactic, (iv) negation, (v) entailment, and (vi) metaphor. Using thirteen datasets and three different distance measures, we evaluate the abilities of eight LLMs in identifying analogical pairs in the semantic vector space. Our evaluation finds that it is increasingly challenging for LLMs to identify analogies when going up the analogy taxonomy.},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={3534--3549},
+  year={2023},
+  pdf={https://aclanthology.org/2023.findings-acl.218/},
+  poster={acl2023.png},
+  preview={acl2023.png},
+  selected={true}
 }
