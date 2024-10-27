@@ -5,7 +5,7 @@ permalink: /
 subtitle: 👩‍🎓 👩‍💻 @ <a href='https://aiisc.ai/index.html'>AIISC</a>  •  <a href="https://sc.edu/">UofSC</a>  •  NLP | LLM | GenAI
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
