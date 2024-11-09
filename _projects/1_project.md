@@ -12,4 +12,5 @@ Along with descriptive explanation, we provide a multimodal dataset of toxic soc
 \
 \
 [![ ](assets/img/tou.png)](assets/pdf/Terms_of_Use_ALONE.pdf)
+{% include figure.liquid loading="eager" path="assets/img/tou.png" title="tou image" class="img-fluid rounded z-depth-1" %}
 
