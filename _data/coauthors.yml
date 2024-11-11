@@ -29,3 +29,7 @@
 "bajaj":
   - firstname: ["Goonmeet Bajaj", "Goonmeet"]
     url: https://scholar.google.com/citations?hl=en&user=CtkA1esAAAAJ
+
+"nguyen":
+  - firstname: ["Vinh Nguyen", "Vinh"]
+    url: https://scholar.google.com/citations?user=GU60-gYAAAAJ&hl=en
