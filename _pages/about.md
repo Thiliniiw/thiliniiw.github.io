@@ -25,9 +25,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
 I am a PhD student at [AI Institute, University of South Carolina](https://aiisc.ai/index.html), focused on developing and evaluating the analogy-making and abstraction capabilities of language models.
 
-[Dr. Amit Sheth](https://amit.aiisc.ai/) is my advisor and I have closely worked with [Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en), [Dr. Valerie Shalin](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. T. K. Prasad](https://scholar.google.com/citationshl=en&user=Txz94twAAAAJ&view_op=list_works&sortby=pubdate).
+[Dr. Amit Sheth](https://amit.aiisc.ai/) is my advisor and I have closely worked with [Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en), [Dr. Valerie Shalin](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. T. K. Prasad](https://scholar.google.com/citations?user=Txz94twAAAAJ&hl=en).
 
-Previously, I interned at [NLM](https://www.nlm.nih.gov/) under the supervision of [Dr. Olivier Bodenreider](https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en).
+Previously, I interned at [NLM](https://www.nlm.nih.gov/) under the supervision of [Dr. Olivier Bodenreider](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html).
 
 My research interests lie in language modeling, with a focus on the following areas:
 <ul>
