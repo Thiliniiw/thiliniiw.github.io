@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/CV_one_page_Thilini.pdf
 title: CV
 nav: true
 nav_order: 5
