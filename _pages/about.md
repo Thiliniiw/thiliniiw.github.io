@@ -27,7 +27,7 @@ I am a PhD candidate at [AI Institute, University of South Carolina](https://aii
 
 [Dr. Amit Sheth](https://amit.aiisc.ai/) is my advisor and I have closely worked with [Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en), [Dr. Valerie Shalin](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. T. K. Prasad](https://scholar.google.com/citations?user=Txz94twAAAAJ&hl=en).
 
-Previously, I interned at [NLM](https://www.nlm.nih.gov/) under the supervision of [Dr. Olivier Bodenreider]([https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html](https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en)).
+Previously, I interned at [NLM](https://www.nlm.nih.gov/) under the supervision of [Dr. Olivier Bodenreider](https://www.nlm.nih.gov/research/researchstaff/BodenreiderOlivier.html](https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en).
 
 My research interests lie in language modeling, with a focus on the following areas:
 <ul>
