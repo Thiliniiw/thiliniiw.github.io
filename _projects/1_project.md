@@ -10,4 +10,8 @@ related_publications: false
 
 Along with descriptive explanation, we provide a multimodal dataset of toxic social media interactions between confirmed high school students, called ALONE (AdoLescents ON twittEr). If you are interested in obtaining the dataset, sign the following TOU and send it to thilini [at] sc.edu.
 
-![some discription](assets/pdf/Terms_of_Use_ALONE.pdf "some discription")
+# ![some discription](assets/pdf/Terms_of_Use_ALONE.pdf "some discription")
+
+# Embed PDF
+
+<iframe src="assets/pdf/Terms_of_Use_ALONE.pdf" width="100%" height="500" frameborder="0" />
