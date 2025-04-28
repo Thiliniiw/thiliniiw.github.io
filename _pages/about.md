@@ -33,10 +33,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm a **Ph.D. candidate** at the [AI Institute, University of South Carolina](https://aiisc.ai/index.html), passionate about advancing the capabilities of `language models`, particularly in the areas of `analogy-making` and `abstraction`.
 
-🔬 I am fortunate to be advised by [Dr. Amit Sheth](https://amit.aiisc.ai/), and have closely collaborated with  
-[Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en),  
-[Dr. Valerie Shalin](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate), and  
-[Dr. T. K. Prasad](https://scholar.google.com/citations?user=Txz94twAAAAJ&hl=en).
+🔬 I am fortunate to be advised by [Dr. Amit Sheth](https://amit.aiisc.ai/), and have closely collaborated with [Dr. Amitava Das](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en), [Dr. Valerie Shalin](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate), and [Dr. T. K. Prasad](https://scholar.google.com/citations?user=Txz94twAAAAJ&hl=en).
 
 💼 Previously, I completed a research internship at the [National Library of Medicine (NLM)](https://www.nlm.nih.gov/), under the supervision of [Dr. Olivier Bodenreider](https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en).
 
