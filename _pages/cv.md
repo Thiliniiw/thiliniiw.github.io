@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/CV_long_TIW.pdf
+permalink: /assets/pdf/CV_long_TIW.pdf
 title: CV
 nav: true
 nav_order: 5
