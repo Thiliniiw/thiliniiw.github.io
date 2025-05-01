@@ -31,6 +31,6 @@ I am a PhD candidate at [`AI Institute, University of South Carolina`](https://a
 
 🎯 My research interests lie in language modeling, with a focus on the following areas:
 - 🔎 Understanding how language models identify and generate analogies and abstractions
-- 🪩 Leveraging structured knowledge sources to enhance model performance
+- 🪩 Leveraging structured knowledge to enhance model performance
 - 🧠 Augmenting analogical reasoning capabilities through structured knowledge
 - 🧩 Investigating the role of context in language modeling
