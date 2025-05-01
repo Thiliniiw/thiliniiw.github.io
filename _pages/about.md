@@ -30,7 +30,7 @@ I am a PhD candidate at [`AI Institute, University of South Carolina`](https://a
 💼 Previously, I completed a research internship at the [`National Library of Medicine (NLM)`](https://www.nlm.nih.gov/), under the supervision of [`Dr. Olivier Bodenreider`](https://scholar.google.com/citations?user=UsG8QFwAAAAJ&hl=en).
 
 🎯 My research interests lie in language modeling, with a focus on the following areas:
-- 🔎 Understanding how `language models` **identify** and **generate** `analogies` and `abstractions`
+- 🔎 Understanding how `language models` identify and generate `analogies` and `abstractions`
 - 🪩 Leveraging `structured knowledge sources` to enhance model performance
 - 🧠 Augmenting `analogical reasoning` capabilities through `structured knowledge`
 - 🧩 Investigating the role of `context` in `language modeling`
