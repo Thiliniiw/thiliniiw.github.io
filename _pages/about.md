@@ -23,8 +23,10 @@ social: true # includes social icons at the bottom of the page
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
-<div style="background-color: #ffe5cc; border: 1px solid #ff8c00; padding: 15px; margin-bottom: 25px; border-radius: 8px; width: fit-content; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 300;">
-<strong style="font-weight: 400;">🎯 I am actively on the job market for 2025-26, seeking Research Scientist positions in industry specializing in Large Language Models, AI reasoning, and knowledge-enhanced AI systems. Open to opportunities in LLM development, evaluation, and applied AI research. 📧 Contact me at <a href="mailto:thilini@sc.edu">thilini@sc.edu</a></strong> </div>
+<div style="background-color: #ffe5cc; border: 1px solid #ff8c00; padding: 15px; margin-bottom: 25px; border-radius: 8px; width: fit-content; font-family: 'Helvetica Neue', Arial, sans-serif;">
+<strong style="font-weight: 800;">I am actively on the job market for 2025-26!</strong> 
+<strong style="font-weight: 400;">I am seeking Research Scientist positions in industry specializing in Large Language Models, AI reasoning, and knowledge-enhanced AI systems. Open to opportunities in LLM development, evaluation, and applied AI research.
+Contact me at <a href="mailto:thilini@sc.edu">thilini@sc.edu</a></strong> </div>
 
 I am a PhD candidate at [`AI Institute, University of South Carolina`](https://aiisc.ai/index.html), specializing in the development and evaluation of language models with a focus on their analogy-making and abstraction capabilities.
 
