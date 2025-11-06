@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <div style="background-color: #ffe5cc; padding: 15px; margin-bottom: 25px; border-radius: 8px; width: fit-content; font-family: 'Helvetica Neue', Arial, sans-serif;">
 <strong style="font-weight: 800;">I am actively on the job market for 2025-26!</strong>
 <br><br>
-<strong style="font-weight: 300;">I am seeking Research Scientist positions in industry specializing in Large Language Models, AI reasoning, and knowledge-enhanced AI systems. Open to opportunities in LLM development, evaluation, and applied AI research. Contact me at <a href="mailto:thilini@sc.edu">thilini@sc.edu</a></strong></div>
+<strong style="font-weight: 300;">I am seeking Research Scientist positions in industry specializing in Large Language Models, AI reasoning, and knowledge-enhanced AI systems. Contact me at <a href="mailto:thilini@sc.edu">thilini@sc.edu</a></strong></div>
 
 I am a PhD candidate at [`AI Institute, University of South Carolina`](https://aiisc.ai/index.html), specializing in the development and evaluation of language models with a focus on their analogy-making and abstraction capabilities.
 
