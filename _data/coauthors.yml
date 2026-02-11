@@ -1,35 +1,35 @@
-"sheth":
-  - firstname: ["Amit Sheth", "Amit", "Amit P. Sheth", "Amit Pravin Sheth", "A. Sheth"]
-    url: https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en
+#"sheth":
+  #- firstname: ["Amit Sheth", "Amit", "Amit P. Sheth", "Amit Pravin Sheth", "A. Sheth"]
+    #url: https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en
     
-"shalin":
-  - firstname: ["Valerie Shalin", "Valerie", "Valerie L Shalin"]
-    url: https://scholar.google.fr/citations?user=trFx5GIAAAAJ&hl=en
+#"shalin":
+  #- firstname: ["Valerie Shalin", "Valerie", "Valerie L Shalin"]
+    #url: https://scholar.google.fr/citations?user=trFx5GIAAAAJ&hl=en
 
-"thirunarayan":
-  - firstname: ["Krishnaprasad Thirunarayan", "Krishnaprasad"]
-    url: https://scholar.google.fr/citations?user=Txz94twAAAAJ&hl=en
+#"thirunarayan":
+  #- firstname: ["Krishnaprasad Thirunarayan", "Krishnaprasad"]
+    #url: https://scholar.google.fr/citations?user=Txz94twAAAAJ&hl=en
 
-"das":
-  - firstname: ["Amitava Das", "Amitava", "A. Das"]
-    url: https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en
+#"das":
+  #- firstname: ["Amitava Das", "Amitava", "A. Das"]
+    #url: https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en
 
-"wickramarachchi":
-  - firstname: ["Ruwan Wickramarachchi", "Ruwan"]
-    url: https://scholar.google.com/citations?user=_p-lrBkAAAAJ&hl=en
+#"wickramarachchi":
+  #- firstname: ["Ruwan Wickramarachchi", "Ruwan"]
+    #url: https://scholar.google.com/citations?user=_p-lrBkAAAAJ&hl=en
 
-"ilievski":
-  - firstname: ["Filip Ilievski", "Filip"]
-    url: https://scholar.google.fr/citations?hl=en&user=4ZScBc0AAAAJ&view_op=list_works&sortby=pubdate
+#"ilievski":
+  #- firstname: ["Filip Ilievski", "Filip"]
+    #url: https://scholar.google.fr/citations?hl=en&user=4ZScBc0AAAAJ&view_op=list_works&sortby=pubdate
 
-"tommasini":
-  - firstname: ["Riccardo Tommasini", "Riccardo"]
-    url: https://scholar.google.it/citations?user=eEEWh2sAAAAJ&hl=en
+#"tommasini":
+  #- firstname: ["Riccardo Tommasini", "Riccardo"]
+    #url: https://scholar.google.it/citations?user=eEEWh2sAAAAJ&hl=en
 
-"bajaj":
-  - firstname: ["Goonmeet Bajaj", "Goonmeet"]
-    url: https://scholar.google.com/citations?hl=en&user=CtkA1esAAAAJ
+#"bajaj":
+  #- firstname: ["Goonmeet Bajaj", "Goonmeet"]
+    #url: https://scholar.google.com/citations?hl=en&user=CtkA1esAAAAJ
 
-"nguyen":
-  - firstname: ["Vinh Nguyen", "Vinh"]
-    url: https://scholar.google.com/citations?user=GU60-gYAAAAJ&hl=en
+#"nguyen":
+  #- firstname: ["Vinh Nguyen", "Vinh"]
+    #url: https://scholar.google.com/citations?user=GU60-gYAAAAJ&hl=en
