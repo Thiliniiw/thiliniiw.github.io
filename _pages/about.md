@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <br><br>
 Contact me at <a href="mailto:thilini@sc.edu">thilini@sc.edu</a></strong></div>
 
-I hold a PhD from the [`AI Institute, University of South Carolina`](https://aiisc.ai/index.html), specializing in the development and evaluation of language models with a focus on their analogy-making and abstraction capabilities.
+I hold a Ph.D. from the [`AI Institute, University of South Carolina`](https://aiisc.ai/index.html), specializing in the development and evaluation of language models with a focus on their analogy-making and abstraction capabilities.
 
 🔬 I am fortunate to be advised by [`Dr. Amit Sheth`](https://amit.aiisc.ai/), and have closely collaborated with [`Dr. Amitava Das`](https://scholar.google.com/citations?user=HYpfhaEAAAAJ&hl=en), [`Dr. Valerie Shalin`](https://scholar.google.fr/citations?hl=en&user=trFx5GIAAAAJ&view_op=list_works&sortby=pubdate), and [`Dr. T. K. Prasad`](https://scholar.google.com/citations?user=Txz94twAAAAJ&hl=en).
 
